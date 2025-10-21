@@ -3,6 +3,8 @@
 /**
  * main - Entry point
  *
+ * Description: Prints a sentence using printf function
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
